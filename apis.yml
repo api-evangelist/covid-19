@@ -1,0 +1,32 @@
+aid: covid-19
+name: Covid-19
+description: "Covid 19 spread, infection and recovery"
+url: https://covid19api.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Health"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Health
+  - Public APIs
+apis:
+  - name: Covid-19
+    description: "Covid 19 spread, infection and recovery"
+    humanURL: https://covid19api.com/
+    baseURL: https://covid19api.com/
+    tags:
+      - Health
+    properties:
+      - type: Documentation
+        url: https://covid19api.com/
+common:
+  - type: Website
+    url: https://covid19api.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
