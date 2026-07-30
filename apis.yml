@@ -1,4 +1,16 @@
 aid: covid-19
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/covid-19.png
 name: Covid-19
 description: "Covid 19 spread, infection and recovery"
 url: https://covid19api.com/
