@@ -39,7 +39,6 @@ apis:
   - name: Covid-19
     description: "Covid 19 spread, infection and recovery"
     humanURL: https://covid19api.com/
-    baseURL: https://covid19api.com/
     tags:
       - Health
     properties:
